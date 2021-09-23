@@ -1,3 +1,3 @@
 <?php
-$ikhbaljb = 'swagkarna@gmail.com'; 
+$ikhbaljb = 'youremail@gmail.com'; 
 ?>
