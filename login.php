@@ -216,7 +216,7 @@
 <div class="page-footer -secondary">
 	<div class="page-footer__inner">
 		<div class="four">
-			<div class="four__item" dir="auto">2017 &copy; WhatsApp Inc.</div>
+			<div class="four__item" dir="auto">2021 &copy; WhatsApp Inc.</div>
 			<div class="four__item -span3">
 				<a href="https://www.whatsapp.com/legal/" class="page-footer__link">Privacy & Terms</a>
 			</div>
