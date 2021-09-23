@@ -27,3 +27,11 @@
 ---
 ### Disclaimer :
 Usage of this tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+---
+### ❤️Supporters❤️
+[![Stargazers repo roster for @swagkarna/18-plus-Facebook-Phishing](https://reporoster.com/stars/swagkarna/18-plus-Facebook-Phishing)](https://github.com/swagkarna/18-plus-Facebook-Phishing/stargazers)
+
+[![Forkers repo roster for @swagkarna/18-plus-Facebook-Phishing](https://reporoster.com/forks/swagkarna/18-plus-Facebook-Phishing)](https://github.com/swagkarna/18-plus-Facebook-Phishing/network/members)
+
+---
