@@ -1,7 +1,7 @@
 <?php
 /**
  * Income Pitbull - Quick UnZipper
- * Place this in the same directory of the zip file. Then go to the file in your browser, enter the file name in the textbox, and hit "Unzip".
+ * Place this in the same directory of the zip files. Then go to the file in your browser, enter the file name in the textbox, and hit "Unzip".
  * For security reasons, this only is allowed to run inside it's own current directory...
  * It is recommended to delete this file After use..
  */
