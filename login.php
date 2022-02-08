@@ -14,7 +14,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#1BA691">
 <link id="favicon" rel="shortcut icon" href="img/v4/icon.png" type="image/png">
 <link rel="stylesheet" href="css/v4/style.build35e635e635e6.css">
-<!--Follow the link to join-->
+<!--Follow these link to join-->
 <meta property="og:description" content="Follow this link to join"/>
 </head>
 <body class="page page--landing page--invite" id="top">
