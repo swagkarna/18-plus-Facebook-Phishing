@@ -21,6 +21,7 @@
 <style>
  .swagkarna{
 	background:#fff;
+	 
 	width:100%;
 	height:40px;
 	font-size:15px;
